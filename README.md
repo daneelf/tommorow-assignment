@@ -41,7 +41,6 @@ docker-compose up production
 
 *Production listening at:*  **localhost:8080**.
 
-
 ### Features implemented
 * Add or remove new columns in board.
 * Add or remove tasks withing the columns.
@@ -49,23 +48,4 @@ docker-compose up production
 * Drag and drop any task from one column to another.
 * Reorder cards by using drag and drop
 * Sort by "Highest priority task" or "Lowest priority task".
-
-### Testing build with
-
-* [Jest for React](https://jestjs.io/)
-* [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-
-### Testing
-To run the test type:
-
-```
-npm install
-npm test
-```
-
-To run test with coverage run:
-
-```
-npm test -- --coverage
-```
-
+* Column average estimation of tasks
