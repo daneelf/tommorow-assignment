@@ -4,7 +4,7 @@ Tomorrow assignment using CRA, Materia UI and styled components.
 ## Build With
 
 * [React](https://reactjs.org/)
-* [Create-react-app with Typescript template](https://create-react-app.dev/docs/adding-typescript/)
+* [Create-react-app](https://create-react-app.dev)
 * [Material-UI](https://material-ui.com/)
 * [styled-components](https://styled-components.com/)
 * [React-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) 
